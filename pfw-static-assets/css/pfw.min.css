@@ -2953,7 +2953,7 @@ div.hamburger > .inner {
   font-family: "Google Sans";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/google-sans-v70-latin-regular.woff2") format("woff2"), url("../fonts/google-sans-v70-latin-regular.ttf") format("truetype");
+  src: url("https://83pixel.github.io/freethrowseuroleague-site/pfw-static-assets/fonts/google-sans-v70-latin-regular.woff2") format("woff2"), url("https://83pixel.github.io/freethrowseuroleague-site/pfw-static-assets/fonts/google-sans-v70-latin-regular.ttf") format("truetype");
 }
 /* google-sans-italic - latin */
 @font-face {
@@ -2961,7 +2961,7 @@ div.hamburger > .inner {
   font-family: "Google Sans";
   font-style: italic;
   font-weight: 400;
-  src: url("../fonts/google-sans-v70-latin-italic.woff2") format("woff2"), url("../fonts/google-sans-v70-latin-italic.ttf") format("truetype");
+  src: url("https://83pixel.github.io/freethrowseuroleague-site/pfw-static-assets/fonts/google-sans-v70-latin-italic.woff2") format("woff2"), url("https://83pixel.github.io/freethrowseuroleague-site/pfw-static-assets/fonts/google-sans-v70-latin-italic.ttf") format("truetype");
 }
 /* google-sans-700 - latin */
 @font-face {
@@ -2969,7 +2969,7 @@ div.hamburger > .inner {
   font-family: "Google Sans";
   font-style: normal;
   font-weight: 700;
-  src: url("../fonts/google-sans-v70-latin-700.woff2") format("woff2"), url("../fonts/google-sans-v70-latin-700.ttf") format("truetype");
+  src: url("https://83pixel.github.io/freethrowseuroleague-site/pfw-static-assets/fonts/google-sans-v70-latin-700.woff2") format("woff2"), url("https://83pixel.github.io/freethrowseuroleague-site/pfw-static-assets/fonts/google-sans-v70-latin-700.ttf") format("truetype");
 }
 /* google-sans-700italic - latin */
 @font-face {
@@ -2977,7 +2977,7 @@ div.hamburger > .inner {
   font-family: "Google Sans";
   font-style: italic;
   font-weight: 700;
-  src: url("../fonts/google-sans-v70-latin-700italic.woff2") format("woff2"), url("../fonts/google-sans-v70-latin-700italic.ttf") format("truetype");
+  src: url("https://83pixel.github.io/freethrowseuroleague-site/pfw-static-assets/fonts/google-sans-v70-latin-700italic.woff2") format("woff2"), url("https://83pixel.github.io/freethrowseuroleague-site/pfw-static-assets/fonts/google-sans-v70-latin-700italic.ttf") format("truetype");
 }
 *,
 *::before,
