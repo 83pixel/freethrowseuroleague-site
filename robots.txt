@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://83pixel.github.io/freethrowseuroleague-site/sitemap.xml
